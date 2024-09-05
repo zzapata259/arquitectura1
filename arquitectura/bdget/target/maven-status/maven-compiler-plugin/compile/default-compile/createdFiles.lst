@@ -1,0 +1,6 @@
+com\example\bdget\BdgetApplication.class
+com\example\bdget\model\Student.class
+com\example\bdget\controller\StudentController.class
+com\example\bdget\repository\StudentRepository.class
+com\example\bdget\service\StudentService.class
+com\example\bdget\service\StudentServiceImpl.class
